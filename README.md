@@ -49,4 +49,10 @@ data/
 ```
 This ensures that the ```config.yml``` file and the ```data/``` directory are not included in the version control, protecting sensitive information and preventing accidental commits.
 
+## Screenshots
 
+![Screenshot 2023-06-27 at 5 21 31 PM](https://user-images.githubusercontent.com/102835975/249306763-01f81e4e-75e5-42b9-8995-846ef758535f.png)
+
+![Screenshot 2023-06-27 at 5 22 25 PM](https://user-images.githubusercontent.com/102835975/249306776-64d80961-cad0-4d67-880d-85795e479833.png)
+
+![Screenshot 2023-06-27 at 5 24 42 PM](https://user-images.githubusercontent.com/102835975/249306857-c029797b-b2e8-4b93-90d5-7cb7a62502c8.png)
