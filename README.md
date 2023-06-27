@@ -9,8 +9,7 @@ This is a simple chatbot project built using OpenAI's ChatGPT.
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Gitignore](#gitignore)
-- [Contributing](#contributing)
-- [License](#license)
+- [Screenshots](#screenshots)
 
 ## Introduction
 
