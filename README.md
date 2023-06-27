@@ -30,6 +30,7 @@ The chatbot project utilizes OpenAI's ChatGPT to provide interactive conversatio
 2. The chatbot will start and prompt you to enter your input.
 3. Enter your text as a user input, and the chatbot will generate a response.
 4. The conversation continues, with each user input followed by a chatbot response.
+5. To conclude the conversation, simply press Ctrl + C.
 
 ### Configuration
 The project uses a configuration file (config.yml) to store the OpenAI API key. This helps keep the key hidden and separate from the codebase. The config.yml file should be in the following format:
